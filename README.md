@@ -22,8 +22,9 @@ The sales data is stored in CSV format, split across two files. The following st
  The transformed data was loaded into Power BI for visualization and analysis.
 
 ## **Dashboard**
+![Screenshot 2024-02-21 115532](https://github.com/Aryan18107/Madhav-Store-Ecommerce-Sales-Dashboard/assets/156915129/95652888-d02d-419f-b043-a423bfd3aabd)
 
-**Project Learning**
+## **Project Learning**
 
 During the course of this project, the following key skills and techniques were utilized:
 
