@@ -21,6 +21,8 @@ The sales data is stored in CSV format, split across two files. The following st
 3. **Load the Data in Power BI**:
  The transformed data was loaded into Power BI for visualization and analysis.
 
+## **Dashboard**
+
 **Project Learning**
 
 During the course of this project, the following key skills and techniques were utilized:
