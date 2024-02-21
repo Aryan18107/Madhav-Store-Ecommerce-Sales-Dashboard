@@ -21,8 +21,26 @@ The sales data is stored in CSV format, split across two files. The following st
 3. **Load the Data in Power BI**:
  The transformed data was loaded into Power BI for visualization and analysis.
 
+## **Questions (KPIs)**
+
+- Compare the sum of the amounts with different states.
+- Which person spent the maximum amount of money to buy products?
+- Which category of product customer orders the most (Clothing, Electronics and Furniture)?
+- What kind of payment mode customer uses the most while purchasing products?
+- Which months of the year Madhav Store generate the maximum profit and minimum profit?
+- Which sub-category of the product customer orders the most and contibutes gaining maximum profits to Madhav Store?
+
 ## **Dashboard**
 ![Screenshot 2024-02-21 115532](https://github.com/Aryan18107/Madhav-Store-Ecommerce-Sales-Dashboard/assets/156915129/95652888-d02d-419f-b043-a423bfd3aabd)
+
+## **Project Insight**
+
+- Most of the customers spent the maximum amounts of money on purchasing products like clothing (63%), Electronics (21%) and furniture (17%) (Printers, Bookcases, Saree, etc).
+- The store generates the maximum profits from the months January to April and December.
+- The states of Maharashtra, Madhya Pradesh and Uttar Pradesh are the top 3 product buyers.
+- The customers Harivansh, Madhav and Madan Mohan are the top 3 product buyers.
+- Generally, the customers use the Cash on Delivery (44%) and UPI (21%) mode of Payment.
+
 
 ## **Project Learning**
 
